@@ -1,7 +1,7 @@
 # Site settings
 title: My Blog
 SEOTitle: 逸飞的博客 | Yifei's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bron_ad.png
 email: magickid916@gmail.com
 description: "Grace under pressure."
 keyword: "Yifei, Yifei's Blog, IC, Embedded System"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/alfiexiang/alfiexiang.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
