@@ -3,7 +3,7 @@ title: My Blog
 SEOTitle: 逸飞的博客 | Yifei's Blog
 header-img: img/bron_ad.png
 email: magickid916@gmail.com
-description: "Grace under pressure."
+description: "Yifei's Blog."
 keyword: "Yifei, Yifei's Blog, IC, Embedded System"
 url: "http://alfiexiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,19 +11,19 @@ github_repo: "https://github.com/alfiexiang/alfiexiang.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Grace under pressure."
 sidebar-avatar: /img/photo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     Alfie
+github_username:    alfiexiang
+# facebook_username:  
+# jianshu_username:  
+# twitter_username:  
 
 
 
